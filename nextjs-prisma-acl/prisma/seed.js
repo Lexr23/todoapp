@@ -16,11 +16,8 @@ const userData = {
       { task: "Finish the Project" },
       { task: "Modify Code" },
       { task: "Experimental code" },
-<<<<<<< HEAD
       { task: "A" },
-=======
       { task: "b" },
->>>>>>> developerB
     ],
   },
 };
